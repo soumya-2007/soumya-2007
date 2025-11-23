@@ -23,24 +23,21 @@
 
 
  📬 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhikhera)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rxiddhi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-jalihal/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.soumya2007@gmail.com) 
 
 <!---
 # 📊 GitHub Stats:
-![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxiddhi&show_icons=true&theme=radical) </br>
+![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumya-2007&show_icons=true&theme=radical) </br>
 ![Riddhi's GitHub streak](https://nirzak-streak-stats.vercel.app/?user=rxiddhi&theme=dark&hide_border=false) <br/>
-![Riddhi's GitHub count](https://github-readme-stats.vercel.app/api/top-langs/?username=rxiddhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Riddhi's GitHub count](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 --->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soumya-2007&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rxiddhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=soumya-2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 --->
 ---
 [![](https://visitcount.itsvg.in/api?id=soumya-2007&icon=0&color=9)](https://visitcount.itsvg.in)
